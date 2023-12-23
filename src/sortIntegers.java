@@ -18,7 +18,6 @@ public class sortIntegers {
     }
     public static void main(String[] args) {
         int[] array = {1, 2, 3, 4, 5, 4, 1, 6};
-
         System.out.println("Original array:");
         printArray(array);
 
